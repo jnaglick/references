@@ -22,8 +22,8 @@
 |---            |---              |---
 |^ a            |move to start of line
 |^ e            |move to end of line
-|alt+f / esc+f   |move forward one word | use .inputrc for ^-sequences
-|alt+b / esc+b   |move backward one word| ditto above
+|esc+f          |move forward one word | use .inputrc for ^-sequences, terminal emulator mapping for alt
+|esc+b          |move backward one word| ditto above
 
 
 ###### edit
